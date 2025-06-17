@@ -15,7 +15,7 @@ Just open a pull request with your content.
 
 ## 🎥 Want to See It in Action?
 
-[Watch the demo video](https://github.com/trackahealth/media/raw/main/THinAction.mp4)   
+[Watch the demo video](https://github.com/trackahealth/media/raw/main/Trackahealth-in-action.mp4)   
 (Video plays directly in browser – no login needed)
 
 Or watch on YouTube: [Offline Vitals Tracker Demo](https://youtube.com/watch?v=6vUta_pUhbw)
